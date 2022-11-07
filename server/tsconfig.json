@@ -2,10 +2,9 @@
   "compilerOptions": {
     "target": "ES2022",
     "lib": ["ES6"],
-    "module": "ES2022",
+    "module": "CommonJS",
     "rootDir": "",
     "resolveJsonModule": true,
-    "moduleResolution": "node",
     "outDir": "build",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
