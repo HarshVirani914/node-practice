@@ -14,12 +14,8 @@
     "morgan": "^1.10.0"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.42.0",
-    "@typescript-eslint/parser": "^5.42.0",
-    "eslint": "^8.27.0",
     "@types/node": "^18.11.9",
     "ts-node": "^10.9.1",
-    "eslint-plugin-react": "^7.31.10",
     "typescript": "^4.8.4"
   }
 }
